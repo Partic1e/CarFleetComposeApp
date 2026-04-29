@@ -1,0 +1,5 @@
+/build
+/test-results
+/test-reports
+*.iml
+.idea/inspectionProfiles

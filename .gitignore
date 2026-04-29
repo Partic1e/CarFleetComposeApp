@@ -1,0 +1,41 @@
+# Gradle
+.gradle/
+build/
+
+# Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+
+# Android
+captures/
+/build
+.externalNativeBuild
+.cxx
+local.properties
+
+# Binaries
+*.apk
+*.aar
+*.ap_
+*.dex
+
+# Keys
+*.jks
+*.keystore
+*.p12
+*.google_play_key
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

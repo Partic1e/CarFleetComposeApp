@@ -1,0 +1,17 @@
+/build
+
+# Google Services
+google-services.json
+
+# Keys
+*.jks
+*.keystore
+*.p12
+
+# ProGuard / R8
+mapping.txt
+seeds.txt
+usage.txt
+configuration.txt
+
+output-metadata.json

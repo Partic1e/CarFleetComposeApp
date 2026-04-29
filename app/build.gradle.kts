@@ -30,6 +30,8 @@ android {
         val yandexKey = localProperties.getProperty("YANDEX_MAPS_API_KEY") ?: ""
 
         buildConfigField("String", "YANDEX_MAPS_API_KEY", "\"$yandexKey\"")
+
+        buildConfigField("String", "BASE_URL", "\"http://10.0.2.2:8000/\"")
     }
 
     buildTypes {
